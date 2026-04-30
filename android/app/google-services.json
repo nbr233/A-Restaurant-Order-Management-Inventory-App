@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "247947302918",
+    "firebase_url": "https://restaurant-order-managem-ee699-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "restaurant-order-managem-ee699",
+    "storage_bucket": "restaurant-order-managem-ee699.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247947302918:android:e4afbc9b1060cf2b5c4b87",
+        "android_client_info": {
+          "package_name": "com.riya.restaurantapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDptRRqcI6PUBDcRR5FAURPt3Hco7NJe34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
